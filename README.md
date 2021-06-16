@@ -1,4 +1,5 @@
 Multiclass classification fact-checking using huggingface's PUBHEALTH
+
 BERT model used for transfer learning: bert-base-cased
 
 Final Model Performance:
@@ -15,7 +16,11 @@ Final Model Performance:
 Future steps to improve model performance:
 
 Longer sequences of input text
+
 Trying other different BERT models
+
 Generating data using GANs for under-represented classes instead of introducing class weights
+
 Partial tuning of BERT weights instead of completely fixing them
+
 More number of epochs
