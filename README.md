@@ -11,8 +11,6 @@ Final Model Performance:
            3       0.02      0.02      0.02        45
 
     accuracy                           0.35      1233
-   macro avg       0.19      0.27      0.21      1233
-weighted avg       0.29      0.35      0.31      1233
 
 Future steps to improve model performance:
 
